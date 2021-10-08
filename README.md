@@ -1,24 +1,10 @@
 ### Hi there im Goose! 👋
 
-- 🔭 I’m currently working on my bot [Terminal](https://top.gg/bot/745358062025703445)
+- 🔭 I’m currently working on my bot [Flog](https://top.gg/bot/745358062025703445)
 - 🌱 I’m currently learning computer maintenance and new coding languages such as **Python** and **Dart**
-- ⚡ My programing journey: I start development of Terminal on September 13th, 2020. I have continued to learn Javascript and other related languages as i developed this bot!
+- ⚡ My programing journey: I start development of Flog on September 13th, 2020. I have continued to learn Javascript and other related languages as i developed this bot!
 
-<!--
-**scalgoon/scalgoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 📣 Reach me at Goose_#2548 on Discord!
 
 <!--
 **scalgoon/scalgoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
