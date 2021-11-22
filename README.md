@@ -1,8 +1,8 @@
 ### Hi there im Goose! 👋
 
-- 🔭 I’m currently working on my bot [Flog](https://top.gg/bot/745358062025703445)
+- 🔭 I’m currently working on my bot [Goot](https://github.com/scalgoon/Goot)
 - 🌱 I’m currently learning computer maintenance and new coding languages such as **Python** and **Dart**
-- ⚡ My programing journey: I start development of Flog on September 13th, 2020. I have continued to learn Javascript and other related languages as i developed this bot!
+- ⚡ My programing journey: I start development of Flog on September 13th, 2020. I have continued to learn Javascript and other related languages and now work on a new bot called Goot.
 
 - 📣 Reach me at Goose_#2548 on Discord!
 
