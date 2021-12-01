@@ -1,4 +1,4 @@
-### Hi there im Goose! 👋
+### Hi there im Dez! 👋
 
 - 🔭 I’m currently working on my bot [Goot](https://github.com/scalgoon/Goot)
 - 🌱 I’m currently learning computer maintenance and new coding languages such as **Python** and **Dart**
