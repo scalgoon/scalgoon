@@ -6,6 +6,10 @@
 
 - 📣 Reach me at Goose_#2548 on Discord!
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=dezjames)
+![Goose's GitHub stats](https://github-readme-stats.vercel.app/api?username=scalgoon&show_icons=true&theme=dark)
+
+
 <!--
 **scalgoon/scalgoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
