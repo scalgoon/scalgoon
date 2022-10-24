@@ -6,8 +6,9 @@
 
 - 📣 Reach me at Goose_#2548 on Discord!
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=dezjames)
 ![Goose's GitHub stats](https://github-readme-stats.vercel.app/api?username=scalgoon&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scalgoon&layout=compact&theme=dark)](https://github.com/scalgoon/scalgoon.github.io)
 
 
 <!--
