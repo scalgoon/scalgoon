@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on my bot [Goot](https://github.com/scalgoon/Goot)
 - 🌱 I’m currently learning computer maintenance and new coding languages such as **Python** and **Dart**
-- ⚡ My programing journey: I start development of Flog on September 13th, 2020. I have continued to learn Javascript and other related languages and now work on a new bot called Goot.
+- ⚡ My programing journey: I start development of Goot on September 13th, 2020. I have continued to learn Javascript and other related languages.
 
 - 📣 Reach me at Goose_#2548 on Discord!
 
-![Goose's GitHub stats](https://github-readme-stats.vercel.app/api?username=scalgoon&show_icons=true&theme=dark)
+![Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=scalgoon&show_icons=true&theme=dark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scalgoon&layout=compact&theme=dark)](https://github.com/scalgoon/scalgoon.github.io)
 
