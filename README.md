@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning computer maintenance and new coding languages such as **Python** and **Dart**
 - ⚡ My programing journey: I start development of Goot on September 13th, 2020. I have continued to learn Javascript and other related languages.
 
-- 📣 Reach me at Goose_#2548 on Discord!
+- 📣 Reach me at @Dozdezdaz on Discord!
 
 ![Dez's GitHub stats](https://github-readme-stats.vercel.app/api?username=scalgoon&show_icons=true&theme=dark)
 <br>
